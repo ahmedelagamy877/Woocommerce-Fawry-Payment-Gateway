@@ -54,3 +54,5 @@ This plugin supports both languages (e.g. English, Arabic).
 That's a very powerful yet simple plugin, just wondering if you could add support for the callback URL sent by Fawry to update the order status in Woocommerce that would be very helpful.
 
 Here is the docs for the callback v1: https://www.atfawry.com/developer-guide/callBackV1.html
+
+== The End ==
