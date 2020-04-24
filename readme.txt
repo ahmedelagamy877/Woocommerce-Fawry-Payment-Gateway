@@ -55,4 +55,5 @@ That's a very powerful yet simple plugin, just wondering if you could add suppor
 
 Here is the docs for the callback v1: https://www.atfawry.com/developer-guide/callBackV1.html
 Here is the docs for the callback v1: https://www.atfawry.com/developer-guide/callBackV1.html
+Here is the docs for the callback v1: https://www.atfawry.com/developer-guide/callBackV1.html
 
