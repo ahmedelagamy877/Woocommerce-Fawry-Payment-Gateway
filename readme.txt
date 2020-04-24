@@ -47,3 +47,10 @@ This plugin supports both languages (e.g. English, Arabic).
 
 = 1.0 =
 * A fresh stable release for Fawry Pay.
+
+== Issues ==
+
+* Adding support for for fawry callback to update order status #1
+That's a very powerful yet simple plugin, just wondering if you could add support for the callback URL sent by Fawry to update the order status in Woocommerce that would be very helpful.
+
+Here is the docs for the callback v1: https://www.atfawry.com/developer-guide/callBackV1.html
